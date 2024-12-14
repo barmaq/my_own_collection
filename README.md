@@ -72,7 +72,7 @@
       content: "Hello world!"  
 ---
 6. запустил дважды  
-	![результат](/images/4.png)
+	![результат](/images/6.png)
 7. вышел используя deactivate
 8.  создал новую коллекцию   
 	ansible-galaxy collection init my_own_namespace.yandex_cloud_elk  
