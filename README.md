@@ -89,5 +89,5 @@
 	![результат](/images/15.png)
 16. запустил  
 	![результат](/images/16.png)
-17. [коллекция](https://github.com/barmaq/my_own_collection/tree/main)
+17. [коллекция](https://github.com/barmaq/my_own_collection/tree/main)  
 	[tar.gz](https://github.com/barmaq/my_own_collection/tree/main)	
