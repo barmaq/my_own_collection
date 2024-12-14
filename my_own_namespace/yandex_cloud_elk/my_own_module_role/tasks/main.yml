@@ -1,0 +1,9 @@
+---
+- name: Module testing
+  hosts: localhost
+  tasks:
+
+  - name: test module my_own_module 
+    my_own_module:
+      path: "{{ path }}"
+      content: "{{ content }}"

@@ -1,0 +1,3 @@
+# defaults file for my_module_file_create
+path: './test.txt'
+content: Hello World!"
