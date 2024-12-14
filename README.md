@@ -90,4 +90,4 @@
 16. запустил  
 	![результат](/images/16.png)
 17. [коллекция](https://github.com/barmaq/my_own_collection/tree/main)  
-	[tar.gz](https://github.com/barmaq/my_own_collection/tree/main)	
+	[tar.gz](https://github.com/barmaq/my_own_collection/blob/main/my_own_namespace/yandex_cloud_elk/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)	
